@@ -1,0 +1,9 @@
+name: AFKPlugin
+version: '${project.version}'
+main: me.kodysimpson.afkplugin.AFKPlugin
+api-version: 1.18
+commands:
+  isafk:
+    description: Check to see if you or someone else is AFK
+  afk:
+    description: Toggle your AFK status
